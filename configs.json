@@ -1,0 +1,8 @@
+{
+    "image_background": "./assets/wallpapers/1266929.jpg",
+    "folders": {
+        "main": "/",
+        "behavior_packs": "./behavior_packs",
+        "resource_packs": "./resource_packs"
+    }
+}
